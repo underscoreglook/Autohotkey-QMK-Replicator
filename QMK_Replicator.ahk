@@ -284,5 +284,9 @@ return
 *$~F22::
 *$~F23::
 *$~F24::
+*$~Enter::
+*$~Space::
+*$~Delete::
+*$~Backspace::
 	keyIsPressed := true
 return
